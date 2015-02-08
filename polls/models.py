@@ -1,5 +1,5 @@
 from django.db import models
-from django.template.defaultfilters import default
+
 
 # Create your models here.
 class Question(models.Model):
